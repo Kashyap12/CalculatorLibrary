@@ -86,7 +86,7 @@ pytest==4.6.3
 pytest-cov==2.7.1
 python-dateutil==2.8.0
 pytz==2018.9
-PyYAML==3.13
+PyYAML==5.4
 readme-renderer==24.0
 requests==2.21.0
 requests-toolbelt==0.9.1
